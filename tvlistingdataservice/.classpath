@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="lib/commons-lang3-3.1.jar"/>
+	<classpathentry kind="lib" path="lib/jackson-annotations-2.0.4.jar"/>
+	<classpathentry kind="lib" path="lib/jackson-core-2.0.4.jar"/>
+	<classpathentry kind="lib" path="lib/jackson-databind-2.0.4.jar"/>
+	<classpathentry kind="lib" path="lib/log4j-1.2.16.jar"/>
+	<classpathentry kind="lib" path="lib/bcprov-jdk15-145.jar"/>
+	<classpathentry kind="lib" path="lib/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="lib/commons-net-3.1.jar"/>
+	<classpathentry kind="lib" path="lib/jai_core.jar"/>
+	<classpathentry kind="lib" path="lib/jai_codec.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/Java">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/SDE_7_SSH/eclipse/plugins/org.junit_4.8.1.v4_8_1_v20100427-1100/junit.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="http://www.junit.org/junit/javadoc/4.5"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="/winzipaes"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
